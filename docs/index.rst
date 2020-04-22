@@ -15,11 +15,12 @@ Soon it will provide:
 
 * the `reScipy <https://github.com/rescipy-project/rescipy>`_ package, a Python package integrating additional tools specific for data analysis in scientific research.
 
+For the latest news follow `reScipy on Twitter <https://twitter.com/reScipy>`_.
 
 Contributing
 ============
 
-If you are interested in contributing to the project, check the relevant links above ang give your feedback. Any comment or contribution is more than welcome!
+If you are interested in contributing to the project, check the relevant links above and give your feedback. Any comment or contribution is more than welcome!
 
 
 Feedback
