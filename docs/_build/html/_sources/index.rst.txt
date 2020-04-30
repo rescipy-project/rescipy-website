@@ -13,11 +13,10 @@ At present the reScipy project provides:
 
 * the `reScipy lectures <https://rescipy-lectures.readthedocs.io>`_, a collection of tutorials on Python for scientific research, under active development.
 
-Soon it will provide:
-
-* the `reScipy <https://github.com/rescipy-project/rescipy>`_ package, a Python package integrating additional tools specific for data analysis in scientific research.
+* the `reScipy package <https://rescipy.readthedocs.io>`_, a Python package integrating additional tools specific for data analysis in scientific research.
 
 For the latest news follow `reScipy on Twitter <https://twitter.com/reScipy>`_.
+
 
 Contributing
 ============
