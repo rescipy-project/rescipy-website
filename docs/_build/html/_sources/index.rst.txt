@@ -2,8 +2,10 @@
 reScipy project
 ===============
 
-reScipy, Python for scientific reSearch
-=======================================
+.. image:: logo/rescipy_banner.png
+   :width: 405
+   :alt: reScipy, Python for Scientific reSearch
+   :target: https://rescipy-project.readthedocs.io
 
 Welcome! The reScipy project is an effort aiming to provide researchers with a set of tools and documentation to perform scientific data analysis with Python more easily and efficiently.
 
