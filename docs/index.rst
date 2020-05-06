@@ -15,9 +15,9 @@ At present the reScipy project provides:
 
 * the `reScipy package <https://rescipy.readthedocs.io>`_, a Python package integrating additional tools specific for data analysis in scientific research.
 
-Additional packages are part of the reScipy project:
+Additional packages part of the reScipy project:
 
-* `nxarray <https://nxarray.readthedocs.io/en/latest/index.html>`_, an xarray extension for NeXus/HDF5 input/output.
+* `nxarray <https://nxarray.readthedocs.io/en/latest/index.html>`_, an xarray extension for loading and saving NeXus/HDF5.
 
 For the latest news follow `reScipy on Twitter <https://twitter.com/reScipy>`_.
 
