@@ -11,13 +11,13 @@ Welcome! The reScipy project is an effort aiming to provide researchers with a s
 
 At present the reScipy project provides:
 
-* the `reScipy lectures <https://rescipy-lectures.readthedocs.io>`_, a collection of tutorials on Python for scientific research, under active development.
+* the `reScipy lectures <https://rescipy-lectures.readthedocs.io>`_, a collection of tutorials on Python for scientific research.
 
-* the `reScipy package <https://rescipy.readthedocs.io>`_, a Python package integrating additional tools specific for data analysis in scientific research.
+* the `nxarray <https://nxarray.readthedocs.io/en/latest/index.html>`_ package, an xarray extension for loading and saving NeXus/HDF5.
 
-Additional packages part of the reScipy project:
+* the `spym <https://spym-docs.readthedocs.io/en/latest/>`_ package, a Python package for processing Scanning Probe Microscopy (SPM) data.
 
-* `nxarray <https://nxarray.readthedocs.io/en/latest/index.html>`_, an xarray extension for loading and saving NeXus/HDF5.
+* the `rescipy <https://rescipy.readthedocs.io>`_ package, an under-development Python package aiming to integrate additional tools specific for data analysis in scientific research.
 
 For the latest news follow `reScipy on Twitter <https://twitter.com/reScipy>`_.
 
