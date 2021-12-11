@@ -17,8 +17,6 @@ At present the reScipy project provides:
 
 * the `spym <https://spym-docs.readthedocs.io/en/latest/>`_ package, a Python package for processing Scanning Probe Microscopy (SPM) data.
 
-* the `rescipy <https://rescipy.readthedocs.io>`_ package, an under-development Python package aiming to integrate additional tools specific for data analysis in scientific research.
-
 For the latest news follow `reScipy on Twitter <https://twitter.com/reScipy>`_.
 
 
