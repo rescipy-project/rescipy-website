@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'rescipy-project'
-copyright = '2020, Mirco Panighel'
+copyright = '2022, Mirco Panighel'
 author = 'Mirco Panighel'
 
 
