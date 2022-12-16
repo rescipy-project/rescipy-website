@@ -9,7 +9,7 @@ reScipy project
 
 Welcome! The reScipy project is an effort aiming to provide researchers with a set of tools and documentation to perform scientific data analysis with Python more easily and efficiently.
 
-At present the reScipy project provides:
+At present the reScipy project includes:
 
 * the `reScipy lectures <https://rescipy-lectures.readthedocs.io>`_, a collection of tutorials on Python for scientific research.
 
@@ -17,7 +17,7 @@ At present the reScipy project provides:
 
 * the `spym <https://spym-docs.readthedocs.io/en/latest/>`_ package, a Python package for processing Scanning Probe Microscopy (SPM) data.
 
-For the latest news follow `reScipy on Twitter <https://twitter.com/reScipy>`_.
+* `nxstm <https://spym-docs.readthedocs.io/en/latest/>`_, a NeXus application definition for scanning tunneling microscopy (STM).
 
 
 Contributing
