@@ -17,7 +17,7 @@ At present the reScipy project includes:
 
 * the `spym <https://spym-docs.readthedocs.io/en/latest/>`_ package, a Python package for processing Scanning Probe Microscopy (SPM) data.
 
-* `nxstm <https://spym-docs.readthedocs.io/en/latest/>`_, a NeXus application definition for scanning tunneling microscopy (STM).
+* `nxstm <https://github.com/rescipy-project/nxstm>`_, a NeXus application definition for scanning tunneling microscopy (STM).
 
 
 Contributing
